@@ -1,4 +1,4 @@
-# VideoJuego
+### VideoJuego
 
 Introducción:
 
@@ -10,4 +10,7 @@ Empieza la tercera guerra mundial, lo que queda de Europa contra una África ans
 
 El resto de la historia la escribes tú. Elige un bando al que apoyar, la decisión es tuya, elige la restauración y emersión de Europa o la ambición de poder y expansión de África.
 
-![Imagen Juego: ](https://okdiario.com/img/2016/12/05/segunda-guerra-mundial-linea-del-tiempo-z.jpg){width=width height=height}
+
+
+![Imagen Juego: ](https://okdiario.com/img/2016/12/05/segunda-guerra-mundial-linea-del-tiempo-z.jpg)
+
